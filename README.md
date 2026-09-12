@@ -6,7 +6,10 @@ Primer proyecto de física teórica y computacional: modelado de los niveles de 
 
 Para una partícula de masa $m$ confinada en un pozo de potencial unidimensional de ancho $L$ tal que:
 
-$$V(x) = \begin{cases} 0 & \text{si } 0 < x < L \\ \infty & \text{en cualquier otro caso} \end{cases}$$
+$$V(x) = \begin{cases} 
+0 & \text{si } 0 < x < L \\ 
+\infty & \text{en cualquier otro caso} 
+\end{cases}$$
 
 La ecuación independiente del tiempo de Schrödinger se resuelve analíticamente. Los niveles de energía permitidos están dados por:
 
